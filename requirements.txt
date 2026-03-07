@@ -1,0 +1,12 @@
+# AI APIs
+openai
+google-generativeai
+
+# Google services
+google-api-python-client
+
+# Web app
+streamlit
+
+# Environment variables
+python-dotenv
