@@ -239,7 +239,7 @@ pandas
 **Alan Muchiri**
 Mechatronics Engineer transitioning into Data Engineering and AI Systems.
 
-[![GitHub](https://img.shields.io/badge/GitHub-yourusername-181717?logo=github)](https://github.com/yourusername)
+[![GitHub](https://img.shields.io/badge/GitHub-yourusername-181717?logo=github)](https://github.com/Alanmuchiri)
 
 ---
 
